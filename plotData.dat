@@ -1,0 +1,8 @@
+#MPU6050 Gyro and Accl Reading 
+#count 	g_xout 	g_yout 	g_zout 	a_xout 	a_yout 	a_zout 	Temp   
+#MPU6050 Gyro and Accl Reading 
+#time 	g_xout 	g_yout 	g_zout 	a_xout 	a_yout 	a_zout 	Temp   
+2018-05-25 14:41:57.457294	-6	2	-1	0.559326171875	0.7119140625	-0.58154296875	24.53
+#MPU6050 Gyro and Accl Reading 
+#time 	g_xout 	g_yout 	g_zout 	a_xout 	a_yout 	a_zout 	Temp   
+2018-05-25 14:42:31.386199	-2	2	-2	0.547607421875	0.717529296875	-0.600830078125	23.53

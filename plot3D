@@ -1,0 +1,17 @@
+set multiplot layout 2,1 title "MPU 6050 Readings-3D" font ",14"
+#
+set pm3d
+set hidden3d
+set dgrid3d
+set ticslevel 0
+#
+set title "Gyro data"
+splot "plotData1.dat" using 2:3:4 with lines
+#
+set title "Accl data"
+splot "plotData1.dat" using 5:6:7 with lines
+#
+unset multiplot
+#
+pause 0.5
+reread
